@@ -1,5 +1,5 @@
 def pozdrav(koho):
-  print(f"Ahoj {koho}. Dlouho jsme se nevideli.")
+  print(f"Ahoj {koho}. Dlouho jsme se nevideli. Meli bychom se sejit.")
   
 def main():
   pozdrav("Jano")
